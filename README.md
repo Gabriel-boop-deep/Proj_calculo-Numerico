@@ -1,6 +1,6 @@
 # Exercícios de Cálculo Numérico 🧮💻
 
-Este repositório contém uma coleção de exercícios relacionados à disciplina de Cálculo Numérico, que exploram conceitos importantes de sistemas lineares e equações diferenciais ordinárias (EDOs). Aqui você encontrará uma variedade de problemas para praticar e aprimorar suas habilidades nessa área fascinante da matemática aplicada.
+Este repositório contém uma coleção de exercícios relacionados à disciplina de Cálculo Numérico, que exploram conceitos importantes de sistemas lineares e equações diferenciais ordinárias (EDOs). Aqui você encontrará uma variedade de problemas para praticar e aprimorar suas habilidades nessa área fascinante da matemática aplicada!
 
 ## Sobre a Disciplina
 
